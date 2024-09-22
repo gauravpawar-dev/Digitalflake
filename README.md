@@ -46,5 +46,5 @@
    ```
 
 ## Screenshots
-- ![Screenshot 1 : welcome page]()
- ![Screenshot 1 : login page ]()
+- ![Screenshot 1 : welcome page](screenshots/welcome page.jpeg)
+ ![Screenshot 1 : login page ](screenshots/login page.jpeg)
