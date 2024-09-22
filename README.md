@@ -5,7 +5,6 @@
 - **Database:** [ MongoDB ]
 - **CSS Framework:** [Tailwind CSS / React-Bootstrap]
 - **Authentication:** JWT (JSON Web Token)
-- 
 
 ## Installation
 
