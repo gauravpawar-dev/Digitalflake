@@ -1,17 +1,11 @@
-Here’s a simplified version of the README file:
-
----
-
-# Project Title
 
 ## Technologies Used
 - **Front-end:** React.js
 - **Back-end:** Node.js, Express.js
-- **Database:** [MySQL / MongoDB]
-- **State Management:** Context API / Redux
+- **Database:** [ MongoDB ]
 - **CSS Framework:** [Tailwind CSS / React-Bootstrap]
 - **Authentication:** JWT (JSON Web Token)
-- **Encryption:** bcrypt.js for password hashing
+- 
 
 ## Installation
 
