@@ -46,5 +46,5 @@
    ```
 
 ## Screenshots
-- ![Screenshot 1 : welcome page](Digitalflake/screenshots/welcome page.jpeg)
-- ![Screenshot 1 : login page ](Digitalflake/screenshots/login page.jpeg)
+- ![Screenshot 1 : welcome page]   (Digitalflake/screenshots/welcome page.jpeg)
+- ![Screenshot 1 : login page ]     (Digitalflake/screenshots/login page.jpeg)
