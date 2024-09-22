@@ -44,7 +44,9 @@
    cd client
    npm start
    ```
-
-## Screenshots
+   ## Screenshots
 - ![Screenshot 1 : welcome page]   (./screenshots/welcome page.jpeg)
+![welcome page](https://github.com/user-attachments/assets/b7e25356-e6d8-4b7a-a8b7-b17886e84e46)
+
+
 - ![Screenshot 1 : login page ]     (./screenshots/login page.jpeg)
