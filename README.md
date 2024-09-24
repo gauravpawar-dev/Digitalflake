@@ -10,8 +10,8 @@
 
 1. Clone the repository:
    ```bash
-   git clone [GitHub repository link]
-   cd project-folder
+   git clone [paste the GitHub repository link]
+   cd Digitalflake
    ```
 
 2. Install front-end dependencies:
